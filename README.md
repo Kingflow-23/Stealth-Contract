@@ -28,7 +28,7 @@ Stealth Contract is a tactical stealth‐action shooter that puts you in the sho
 ## Getting Started
 
 1. **Watch the Trailer:**  
-   [Watch on YouTube](www.youtube.com/watch?v=rkTszldnJcY&feature=youtu.be)  
+   [Watch on YouTube](https://www.youtube.com/watch?v=rkTszldnJcY)  
 2. **Download & Play:**  
    [Get it on itchio](YOUR_DOWNLOAD_PAGE)  
 
